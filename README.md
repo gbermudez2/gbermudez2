@@ -18,7 +18,7 @@ Originally, I've been interested in Computer Science, but recently have been int
 - Blue Team Level 1 (BTL1)
 - Prospective Certifications: CySA+, CCNA
 
-## Projects
+## Personal Projects
 - SOC Homelab
 
 <!--
