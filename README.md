@@ -9,9 +9,9 @@ Originally, I've been interested in Computer Science, but recently have been int
 | SIEM using **Splunk**                             | BTL1 Certification / TryHackMe |
 | Packet Detection and Analysis using **Wireshark** | USCC / BTL1 Certification |
 | Digital Forensics using **Autopsy**               | USCC / BTL1 Certification |
-| SIEM and XDR using **Wazuh**                      | SOC Homelab |
-| Case Management using **TheHive**                     | SOC Homelab |
-| Security Automation using **Shuffle** + API          | SOC Homelab |
+| SIEM and XDR using **Wazuh**                      | <a href=https://github.com/gbermudez2/SSH-Detection-SOC-Homelab/tree/main>SOC Homelab</a> |
+| Case Management using **TheHive**                 | <a href=https://github.com/gbermudez2/SSH-Detection-SOC-Homelab/tree/main>SOC Homelab</a> |
+| Security Automation using **Shuffle** + API       | <a href=https://github.com/gbermudez2/SSH-Detection-SOC-Homelab/tree/main>SOC Homelab</a> |
 
 ## Certifications
 - CompTIA Security+ SY-601
@@ -19,7 +19,7 @@ Originally, I've been interested in Computer Science, but recently have been int
 - Prospective Certifications: CySA+, CCNA
 
 ## Personal Projects
-- SOC Homelab
+- <a href=https://github.com/gbermudez2/SSH-Detection-SOC-Homelab/tree/main>SOC Homelab</a>
 
 <!--
 **gbermudez2/gbermudez2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
