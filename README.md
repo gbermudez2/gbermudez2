@@ -16,10 +16,11 @@ Originally, I've been interested in Computer Science, but recently have been int
 | Linux                                             | <a href=https://github.com/gbermudez2/SSH-Detection-SOC-Homelab/tree/main>SSH Homelab</a>, <a href=https://github.com/gbermudez2/Reverse-Shell-Detection-Homelab>Reverse Shell Homelab</a> |
 
 ## Certifications
-- CompTIA Security+ SY-601
+- CompTIA Security+ SY0-601
 - Blue Team Level 1 (BTL1)
 - Security Analyst 1 (SAL1)
-- _Prospective Certifications: CySA+, CCNA_
+- CompTIA CySA+ CS0-003
+- _Prospective Certifications: CCNA_
 
 ## Personal Projects
 - <a href=https://github.com/gbermudez2/SSH-Detection-SOC-Homelab/tree/main>SOC SSH Homelab</a> (Feb 2025)
