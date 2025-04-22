@@ -44,7 +44,7 @@ If we look at the log that triggered the security event, we can see the HTTP res
 - The HTTP POST parameters show the command injection the attacker used: ?c=whoami
 - The attacker attempted to make the server use the command "whoami" to print out the user, presumably to assess the privileges of the server.
 
-### It's not easy to tell if these attacks were successful, so I decided to take a look at the following logs:
+**It's not easy to tell if these attacks were successful, so I decided to take a look at the following logs:**
 
 ![image](https://github.com/user-attachments/assets/03cc9b43-a4cc-41fb-89dd-78b4d1a3c746)
 ![image](https://github.com/user-attachments/assets/99eb22b5-df5d-4f1a-bc82-da580d9110b7)
